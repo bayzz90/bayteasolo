@@ -1,0 +1,23 @@
+{
+  "name": "bayteasolo",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bayteasolo": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayzz90/bayteasolo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bayzz90/bayteasolo/issues"
+  },
+  "homepage": "https://github.com/bayzz90/bayteasolo#readme",
+  "devDependencies": {},
+  "description": ""
+}
